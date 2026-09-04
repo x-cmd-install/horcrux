@@ -7,7 +7,7 @@ about:
   head: 5e848ab
   archived: false
   latestVersion: v0.2
-  collectedAt: 2026-09-04T19:31:16Z
+  collectedAt: 2026-09-04T20:59:39Z
 timeline:
   created: 2020-01-02
   lastCommit: 2023-09-19
@@ -80,5 +80,28 @@ total:
   openIssue: 18
   commit: 59
 ---
+path: /home/runner/.x-repo/github.com/jesseduffield/horcrux
+collectedAt: 2026-09-04T20:59:39Z
+loc:
+  Go:
+    code: 727
+    comments: 85
+    blanks: 142
+    files: 8
+  Markdown:
+    code: 0
+    comments: 59
+    blanks: 28
+    files: 1
+  Text:
+    code: 0
+    comments: 19
+    blanks: 5
+    files: 1
+total:
+  code: 733
+  comments: 163
+  blanks: 175
+  files: 10
 ---
 
