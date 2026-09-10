@@ -12,6 +12,16 @@ Split your file into encrypted fragments so that you don't need to remember a pa
 x install horcrux
 ```
 
+## Code insight
+
+Total: **727** lines of code across **10** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 727 | 85 | 142 | 8 |
+| Markdown | 0 | 59 | 28 | 1 |
+| Text | 0 | 19 | 5 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jesseduffield/horcrux>
@@ -22,6 +32,25 @@ x install horcrux
 - **Latest**: `v0.2` (2020-01-03)
 - **Last commit**: 2023-09-19
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 5,099 · **Forks**: 141 · **Open issues**: 24 · **Contributors**: 8
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 10 · **Open PRs**: 1 · **Closed issues**: 6 · **Open issues**: 18 · **Commits**: 59
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
 
 ## Release assets
 
@@ -40,31 +69,13 @@ x install horcrux
 | [horcrux_0.2_Windows_32-bit.zip](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Windows_32-bit.zip) | 871.6 KiB | `native/win/x64` |
 | [horcrux_0.2_Windows_x86_64.zip](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Windows_x86_64.zip) | 910.5 KiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 5,099 · **Forks**: 141 · **Open issues**: 24 · **Contributors**: 8
+Reported by **12** distros on [repology.org](https://repology.org/project/horcrux). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 2 · **Merged PRs**: 10 · **Open PRs**: 1 · **Closed issues**: 6 · **Open issues**: 18 · **Commits**: 59
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
-
-## Code size
-
-Total: **727** lines of code across **10** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 727 | 85 | 142 | 8 |
-| Markdown | 0 | 59 | 28 | 1 |
-| Text | 0 | 19 | 5 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.3-unstable-2023-09-19` | ignored |
 
 ## Improve this data
 
@@ -75,4 +86,4 @@ Install metadata for horcrux lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:15:49Z._
