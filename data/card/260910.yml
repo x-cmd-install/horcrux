@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2"
   latestRelease: "v0.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:41:16Z
+  collectedAt: 2026-09-10T16:21:25Z
 timeline:
   created: 2020-01-02
   lastCommit: 2023-09-19
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2020-01-03
   lastPrerelease: 
 popularity:
-  star: 5100
+  star: 5099
   watcher: 28
   fork: 141
   release: 2
@@ -83,7 +83,7 @@ total:
   commit: 59
 ---
 path: /home/runner/.x-repo/github.com/jesseduffield/horcrux
-collectedAt: 2026-09-10T04:41:17Z
+collectedAt: 2026-09-10T16:21:28Z
 loc:
   Go:
     code: 727
