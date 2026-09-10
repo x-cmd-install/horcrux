@@ -4,7 +4,7 @@
 
 Split your file into encrypted fragments so that you don't need to remember a passcode
 
-![horcrux](https://repo.x-cmd.io/horcrux.svg)
+![horcrux](https://repo.x-cmd.io/horcrux.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,27 @@ x install horcrux
 - **最新版本**: `v0.2` (2020-01-03)
 - **最近提交**: 2023-09-19
 - **Release 含资产**: 12 个
-- **发布时间**: 2020-01-03T09:40:46Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [horcrux_0.2_checksums.txt](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_checksums.txt) | 1.1 KiB | `other` |
+| [horcrux_0.2_Darwin_32-bit.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Darwin_32-bit.tar.gz) | 899.1 KiB | `native/darwin/x64` |
+| [horcrux_0.2_Darwin_x86_64.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Darwin_x86_64.tar.gz) | 931.1 KiB | `native/darwin/x64` |
+| [horcrux_0.2_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_freebsd_32-bit.tar.gz) | 850.2 KiB | `native/unknown` |
+| [horcrux_0.2_freebsd_armv6.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_freebsd_armv6.tar.gz) | 838.7 KiB | `native/linux/arm` |
+| [horcrux_0.2_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_freebsd_x86_64.tar.gz) | 881.5 KiB | `native/linux/x64` |
+| [horcrux_0.2_Linux_32-bit.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Linux_32-bit.tar.gz) | 850.9 KiB | `native/unknown` |
+| [horcrux_0.2_Linux_arm64.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Linux_arm64.tar.gz) | 827.6 KiB | `native/linux/arm64` |
+| [horcrux_0.2_Linux_armv6.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Linux_armv6.tar.gz) | 839.1 KiB | `native/linux/arm` |
+| [horcrux_0.2_Linux_x86_64.tar.gz](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Linux_x86_64.tar.gz) | 881.4 KiB | `native/linux/x64` |
+| [horcrux_0.2_Windows_32-bit.zip](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Windows_32-bit.zip) | 871.6 KiB | `native/win/x64` |
+| [horcrux_0.2_Windows_x86_64.zip](https://github.com/jesseduffield/horcrux/releases/download/v0.2/horcrux_0.2_Windows_x86_64.zip) | 910.5 KiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 5,100 · **Fork**: 141 · **开放 issue**: 24 · **贡献者**: 8
+- **Star**: 5,099 · **Fork**: 141 · **开放 issue**: 24 · **贡献者**: 8
 
 ## 累计统计
 
@@ -59,4 +75,4 @@ horcrux 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:41:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:41Z._
