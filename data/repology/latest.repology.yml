@@ -113,6 +113,7 @@
   summary: Split your file into encrypted fragments so that you don't need to remember a passcode
   maintainers:
     - markus-heinrich@github
+    - rpgeorg@clemson.edu
   licenses:
     - MIT
 - repo: openpkg_current
