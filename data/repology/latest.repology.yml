@@ -116,17 +116,6 @@
     - rpgeorg@clemson.edu
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: horcrux
-  visiblename: horcrux
-  version: 0.2.20230917
-  origversion: null
-  status: outdated
-  summary: Encrypted File Split/Bind
-  licenses:
-    - MIT
-  categories:
-    - Cryptography
 - repo: scoop
   subrepo: extras
   binname: horcrux
